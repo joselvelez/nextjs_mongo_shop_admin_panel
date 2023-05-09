@@ -1,0 +1,1 @@
+# nextjs_mongo_shop_admin_panel
